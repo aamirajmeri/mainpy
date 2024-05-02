@@ -3,6 +3,10 @@
 # new_num_char = str(num_char)
 # print("Your name has " + new_num_char + " characters.")
 
+#******** DAY - 2 *********#
+# street_name = "Abbey Road"
+# print(street_name[4] + street_name[7])
+
 # a = int(848)
 # print(type(a))
 
@@ -11,8 +15,6 @@ print(str(80) + str(100))
 
 
 
-#******** DAY - 2 *********#
-street_name = "Abbey Road"
-print(street_name[4] + street_name[7])
+
 
 
