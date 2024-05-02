@@ -11,8 +11,7 @@
 # print(type(a))
 
 # print(80 + float(111.5))
-print(str(80) + str(100)) 
-jhj
+# print(str(80) + str(100)) 
 
 
 
