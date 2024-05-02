@@ -7,4 +7,12 @@
 # print(type(a))
 
 # print(80 + float(111.5))
-print(str(80) + str(100)) uuu
+print(str(80) + str(100)) 
+
+
+
+#******** DAY - 2 *********#
+street_name = "Abbey Road"
+print(street_name[4] + street_name[7])
+
+
