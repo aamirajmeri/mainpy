@@ -13,14 +13,10 @@
 # print(80 + float(111.5))
 # print(str(80) + str(100)) 
 
-# result = 4 / 8
-# result /= 8
-# print(result)
+result = 4 / 8
+result /= 8
+print(result)
 
-x = 4
-y = 4 + x
-z = y
-print(y)
 
 
 
