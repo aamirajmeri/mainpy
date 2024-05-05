@@ -11,16 +11,11 @@
 # print(type(a))
 
 # print(80 + float(111.5))
-# print(str(80) + str(100)) 
+# print(str(80) + str(100))
 
 # result = 4 / 8
 # result /= 8
 # print(result)
 
-x = 'This is a string'
-print(x) # outputs: This is a string
-print(type(x)) # outputs: <class 'str'>
-y = "This is also a string"
-
-
-
+# x = int(input("Enter your name"))
+# print(type(x))
