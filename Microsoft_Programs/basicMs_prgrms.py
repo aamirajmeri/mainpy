@@ -12,9 +12,10 @@
 # x = 5
 # print("Enter a number is" + str(x))
 
-sum = 1 + 7
-a = sum * 4
-print(a)
+# sum = 1 + 7
+# a = sum * 4
+# print(a)
+
 
 
 

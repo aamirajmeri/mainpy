@@ -20,3 +20,6 @@
 # x = int(input("Enter your name"))
 # print(type(x))
 
+l_side = 4
+r_side = 2
+l_side / r_side
