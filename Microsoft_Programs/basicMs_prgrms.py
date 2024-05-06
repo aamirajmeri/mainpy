@@ -9,5 +9,7 @@
 # x = int(input("Enter a number"))
 # print(type(x))
 
-x = 5
-print("Enter a number is" + str(x))
+# x = 5
+# print("Enter a number is" + str(x))
+
+
