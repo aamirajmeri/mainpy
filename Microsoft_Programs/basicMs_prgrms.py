@@ -113,3 +113,22 @@
 #   print("a is equal to b")
 # else:
 #   print("a is less than b")
+
+
+# a = 23
+# b = 34
+# if a == 34 or b == 34:
+#   print(a + b)
+
+# a = 23
+# b = 34
+# if a == 34 and b == 34:
+#   print(a + b)
+
+
+#*************     QUESTIONS   *****************#   And Operator
+# For this step you will be presented with the goal for the exercise, followed by an empty cell. Enter your Python into the cell and run it. The solution is at the bottom of the exercise.
+
+# Add the code to the cell below to create two variables: object_size and proximity. Set object_size to 10 to represent 10m3. Set proximity to 9000.
+
+# Then add the code to display a message saying Evasive maneuvers required if both object_size is greater than 5 and proximity is less than 1000. Otherwise display a message saying Object poses no threat.
