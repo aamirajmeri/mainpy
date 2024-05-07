@@ -69,3 +69,20 @@
 # print(type(a))
 
 
+
+#******* 7 - 5 - 24 ******#
+
+# if else statements
+
+a = 88
+b = 55
+
+if a <= b:
+  print(a)
+print(b)
+
+
+
+
+
+
