@@ -21,3 +21,9 @@
 # print(type(x))
 
 
+a = 44
+b = 44
+if a <= b:
+  print("a is less than or equal to b")
+elif a == b:
+  print("a is equal to b")

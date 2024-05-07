@@ -74,13 +74,12 @@
 
 # if else statements
 
-a = 88
-b = 55
-
-if a <= b:
-  print(a)
-print(b)
-
+# a = 88
+# b = 43
+# if a >= b:
+#   print(a)
+# else:
+#   print(b)
 
 
 
