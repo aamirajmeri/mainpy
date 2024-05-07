@@ -25,25 +25,3 @@
 
 
 
-
-
-#*********** STRINGS  ***********#
-
-# fact = "The Moon has no atmosphere"
-# print(fact)
-
-# fact = "The moon has no atmosphere."
-# fact + "No sound can be heard on the Moon."
-
-# fact = "The moon has no atmosphere."
-# fact + "No sound can be heard on the Moon."
-
-
-# fact = "The moon has no atmosphere."
-# fact + "No sound can be heard on the Moon."
-# print(fact)
-
-
-# fact = "the moon has no atmosphere."
-# two_facts = fact + "No sound can be heard on the moon."
-# print(two_fact)

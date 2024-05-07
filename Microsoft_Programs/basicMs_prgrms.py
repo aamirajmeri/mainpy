@@ -130,5 +130,41 @@
 # For this step you will be presented with the goal for the exercise, followed by an empty cell. Enter your Python into the cell and run it. The solution is at the bottom of the exercise.
 
 # Add the code to the cell below to create two variables: object_size and proximity. Set object_size to 10 to represent 10m3. Set proximity to 9000.
-
 # Then add the code to display a message saying Evasive maneuvers required if both object_size is greater than 5 and proximity is less than 1000. Otherwise display a message saying Object poses no threat.
+
+# object_size = 10
+# proximity = 9000
+
+# if object_size > 5 and proximity < 1000:
+#   print("evasive maneuvers required")
+# else:
+#   print("Object poses no threat")
+
+
+
+
+
+
+
+
+
+#*********** STRINGS  ***********#
+
+# fact = "The Moon has no atmosphere"
+# print(fact)
+
+# fact = "The moon has no atmosphere."
+# fact + "No sound can be heard on the Moon."
+
+# fact = "The moon has no atmosphere."
+# fact + "No sound can be heard on the Moon."
+
+
+# fact = "The moon has no atmosphere."
+# fact + "No sound can be heard on the Moon."
+# print(fact)
+
+
+# fact = "the moon has no atmosphere."
+# two_facts = fact + "No sound can be heard on the moon."
+# print(two_fact)
