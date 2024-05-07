@@ -55,4 +55,17 @@
 # print(sys.argv[2]) # second arg
 
 
+# name = input("Enter your name:")
+# print("Greeting " + name)
+
+
+##....... print("calculator program")
+# first_number = input("first number: ")
+# second_number = input("second number: ")
+# print(first_number + second_number)
+
+# print("string")
+# a = "string"
+# print(type(a))
+
 
