@@ -82,6 +82,23 @@
 #   print(b)
 
 
+# a = 44
+# b = 44
+# if a <= b:
+#   print("a is less than or equal to b")
+# elif a == b:
+#   print("a is equal to b")
+
+
+
+# a = 88
+# b = 44
+# if a < b:
+#   print("a is less than b")
+# elif a > b:
+#   print("a is greater than b")
+# else:
+#   print("a is equal to b")
 
 
 
