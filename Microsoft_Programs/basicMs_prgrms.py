@@ -203,3 +203,13 @@
 # fact = "the moon has no atmosphere."
 # two_facts = fact + "No sound can be heard on the moon."
 # print(two_fact)
+
+
+
+# check content
+# temperatures = "Mars Average Temperature: -60 C"
+
+# temperatures = "Mars Average Temperature: -60 C"
+# parts = temperatures.split(':')
+# print(parts)
+# print(parts[-1])
