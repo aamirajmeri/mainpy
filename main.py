@@ -30,3 +30,13 @@ temperatures = "Mars Average Temperature: -60 C"
 parts = temperatures.split(':')
 print(parts)
 print(parts[-1])
+
+The preceding code trusts that everything after the colon (:) is a temperature. The string is split at :, which produces a list of two items. Using [-1] on the list returns the last item, which is the temperature in this example.
+
+If the text is irregular, you can't use the same splitting methods to get the value. You must loop over the items and check to see whether the values are of a certain type. Python has methods that help check the type of string:
+
+
+mars_temperature = "The highest temperature on Mars is about 30 C"
+for item in mars_temperature.split():
+    if item.isnumeric():
+        print(item)
