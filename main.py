@@ -23,6 +23,10 @@
 # x = int(input("Enter your name"))
 # print(type(x))
 
+check content
+temperatures = "Mars Average Temperature: -60 C"
 
-
-
+temperatures = "Mars Average Temperature: -60 C"
+parts = temperatures.split(':')
+print(parts)
+print(parts[-1])
