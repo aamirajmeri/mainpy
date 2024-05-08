@@ -143,6 +143,41 @@
 
 
 
+# print("temperatures and facts about the moon".title())
+
+
+# heading = "temperatures and facts about the moon"
+# heading_upper = heading.title()
+# print(heading_upper)
+
+
+# temperatures = "Daylight: 260 F Nighttime: -299 F"
+# temperatures_list = temperatures.split()
+# print(temperatures_list)
+
+# temperatures = "Daylight: 260 F\n Nighttime: -299 F"
+# temperatures_list = temperatures.split('\n')
+# print(temperatures_list)
+
+# print("Moon" in "This text will describe facts and challenges with space travel")
+
+
+# temperatures = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
+# print(temperatures.find("Moon"))   
+
+
+# temperatures = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
+# print(temperatures.find("Mars"))
+# 64th Position where "Mars" appears in the string.
+                 # # OR (another method content to use .count() method which returns the total number of occurrences of a substring in a string))
+# temperatures = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
+# print(temperatures.count("Mars"))
+# print(temperatures.count("Moon"))
+
+# print("This is Aamir".upper())
+
+# #******* NOTE ********#
+# When you're searching for and checking content, a more robust approach is to lowercase a string so that casing doesn't prevent a match. For example, if you're counting the number of times the word the appears, the method wouldn't count the times where The appears, even though they're both the same word. You can use the .lower() method to change all characters to lowercase.
 
 
 

@@ -25,33 +25,4 @@
 
 
 
-# print("temperatures and facts about the moon".title())
 
-
-# heading = "temperatures and facts about the moon"
-# heading_upper = heading.title()
-# print(heading_upper)
-
-
-# temperatures = "Daylight: 260 F Nighttime: -299 F"
-# temperatures_list = temperatures.split()
-# print(temperatures_list)
-
-# temperatures = "Daylight: 260 F\n Nighttime: -299 F"
-# temperatures_list = temperatures.split('\n')
-# print(temperatures_list)
-
-# print("Moon" in "This text will describe facts and challenges with space travel")
-
-
-# temperatures = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
-# print(temperatures.find("Moon"))   
-
-
-# temperatures = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
-# print(temperatures.find("Mars"))
-# 64th Position where "Mars" appears in the string.
-                 # # OR (another method content to use .count() method which returns the total number of occurrences of a substring in a string))
-# temperatures = """Saturn has a daytime temperature of -170 degrees Celsius, while Mars has -28 Celsius."""
-# print(temperatures.count("Mars"))
-# print(temperatures.count("Moon"))
